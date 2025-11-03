@@ -1,6 +1,6 @@
-From Virality to Visibility
+#From Virality to Visibility
 
-Quantifying the Impact of TikTok Virality on Spotify Streaming Success
+@Quantifying the Impact of TikTok Virality on Spotify Streaming Success
 
 This project explores the intersection of social media virality and music data analytics. Using weekly chart data from TikTok and Spotify (sourced via Chartmetric) and acoustic features from the Spotify Web API, the study investigates how short-form video virality translates into streaming performance.
 
