@@ -16,4 +16,4 @@ Key components:
 	•	Analysis of moderating effects of song characteristics on cross-platform success
 
 Goal:
-To uncover how algorithmic virality and musical composition interact in shaping hit dynamics — bridging marketing analytics, data science, and music industry insights.
+To uncover how algorithmic virality and musical composition interact in shaping hit dynamics, bridging marketing analytics, data science, and music industry insights.
